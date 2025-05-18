@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41f1c976-7160-41c3-802d-c42c6409c7de" width="800" />
+</p>
 
-  ![Internet Streaming GIF by Matthew Butler](https://github.com/user-attachments/assets/41f1c976-7160-41c3-802d-c42c6409c7de)
 
 # 💫 About Me:
 🔭 I’m currently working on -<br>Mastering Data Structures and Algorithms through LeetCode and real-world problem solving.<br>👯 I’m looking to collaborate on<br>DSA-based projects, open-source contributions.<br>🌱 I’m currently learning<br>Core DSA topics, and improving my coding efficiency in C++/Python.<br>💬 Ask me about<br>LeetCode, problem-solving strategies, recursion, or how to get started with DSA from scratch.<br>⚡ Fun fact<br>I enjoy debugging as much as eating golgappas — both give a weird sense of satisfaction!     
