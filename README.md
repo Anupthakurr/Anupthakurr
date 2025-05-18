@@ -1,8 +1,9 @@
 
-![Internet Streaming GIF by Matthew Butler](https://github.com/user-attachments/assets/e6d78216-1fd6-49af-a5a5-6559929f0d9c)
+   ![Internet Streaming GIF by Matthew Butler](https://github.com/user-attachments/assets/e6d78216-1fd6-49af-a5a5-6559929f0d9c)
 # 💫 About Me:
-🔭 I’m currently working on -<br>Mastering Data Structures and Algorithms through LeetCode and real-world problem solving.<br>👯 I’m looking to collaborate on<br>DSA-based projects, open-source contributions.<br>🌱 I’m currently learning<br>Core DSA topics, and improving my coding efficiency in C++/Python.<br>💬 Ask me about<br>LeetCode, problem-solving strategies, recursion, or how to get started with DSA from scratch.<br>⚡ Fun fact<br>I enjoy debugging as much as eating golgappas — both give a weird sense of satisfaction!
+🔭 I’m currently working on -<br>Mastering Data Structures and Algorithms through LeetCode and real-world problem solving.<br>👯 I’m looking to collaborate on<br>DSA-based projects, open-source contributions.<br>🌱 I’m currently learning<br>Core DSA topics, and improving my coding efficiency in C++/Python.<br>💬 Ask me about<br>LeetCode, problem-solving strategies, recursion, or how to get started with DSA from scratch.<br>⚡ Fun fact<br>I enjoy debugging as much as eating golgappas — both give a weird sense of satisfaction!     
 
+![Uploading forum apple GIF.gif…]()
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anup_thakur93) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anup-thakur-5b75a01b1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnupTha00841898) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anupthakur489) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanup229@gmail.com) 
