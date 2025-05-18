@@ -1,5 +1,5 @@
 
-   https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIxMzNkemJ4Mjh1Znlzd21idHBuNWo2dWpkdmlibWU5aWQ2MnZkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sw6IbrKiEklZDVgQaq/giphy.gif
+   <iframe src="https://giphy.com/embed/Sw6IbrKiEklZDVgQaq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-80s-retro-Sw6IbrKiEklZDVgQaq">via GIPHY</a></p>
 # 💫 About Me:
 🔭 I’m currently working on -<br>Mastering Data Structures and Algorithms through LeetCode and real-world problem solving.<br>👯 I’m looking to collaborate on<br>DSA-based projects, open-source contributions.<br>🌱 I’m currently learning<br>Core DSA topics, and improving my coding efficiency in C++/Python.<br>💬 Ask me about<br>LeetCode, problem-solving strategies, recursion, or how to get started with DSA from scratch.<br>⚡ Fun fact<br>I enjoy debugging as much as eating golgappas — both give a weird sense of satisfaction!     
 
