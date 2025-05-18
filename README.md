@@ -1,5 +1,6 @@
 
-   <iframe src="https://giphy.com/embed/Sw6IbrKiEklZDVgQaq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-80s-retro-Sw6IbrKiEklZDVgQaq">via GIPHY</a></p>
+  ![Internet Streaming GIF by Matthew Butler](https://github.com/user-attachments/assets/41f1c976-7160-41c3-802d-c42c6409c7de)
+
 # 💫 About Me:
 🔭 I’m currently working on -<br>Mastering Data Structures and Algorithms through LeetCode and real-world problem solving.<br>👯 I’m looking to collaborate on<br>DSA-based projects, open-source contributions.<br>🌱 I’m currently learning<br>Core DSA topics, and improving my coding efficiency in C++/Python.<br>💬 Ask me about<br>LeetCode, problem-solving strategies, recursion, or how to get started with DSA from scratch.<br>⚡ Fun fact<br>I enjoy debugging as much as eating golgappas — both give a weird sense of satisfaction!     
 
