@@ -1,4 +1,4 @@
-![Computer Coding GIF by Xbox](https://github.com/user-attachments/assets/764acc6f-9dc4-4cb0-bc7f-0703b7b365d9)<p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/41f1c976-7160-41c3-802d-c42c6409c7de" width="100%" height="250" />
 </p>
 
